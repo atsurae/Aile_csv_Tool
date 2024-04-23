@@ -1,2 +1,7 @@
 # Aile_csv_Tool
 Aileで使用したcsvツールを格納するリポジトリ
+
+## csv_splitting_tool
+csvの指定したカラム単位で分割するツール
+例)ユーザーIDごとにcsvを分割する
+詳細は子ディレクトリに記載
