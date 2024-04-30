@@ -3,7 +3,7 @@ import pandas as pd
 
 # 元データを格納しているディレクトリ
 original_csv = 'csv/original'
-# 分割したデータを保存するディレクトリ
+# 結果データを保存するディレクトリ
 result_csv = 'csv/result'
 
 # ユニークにするカラム
